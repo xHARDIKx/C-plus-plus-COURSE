@@ -1,0 +1,1 @@
+cd "s:\CODING NINJA\FOR_LOOPS\" ; if ($?) { g++ forloop1.cpp -o forloop1 } ; if ($?) { .\forloop1 }
